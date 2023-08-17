@@ -1,3 +1,5 @@
+Steve Job`s Inspiration: https://twitter.com/skirano/status/1691081899161047040?s=51
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
