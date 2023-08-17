@@ -1,4 +1,5 @@
 Steve Job`s Inspiration: https://twitter.com/skirano/status/1691081899161047040?s=51
+Chat with Celebrities: https://blog.gopenai.com/chat-with-celebrity-mentors-using-langchain-chatgpt-whisper-and-pinecone-85e89ea9e59
 
 # Getting Started with Create React App
 
